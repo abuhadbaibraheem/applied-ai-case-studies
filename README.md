@@ -7,6 +7,7 @@ I am **Ibraheem Abuhadba**, an AI engineer in Amman, Jordan. These short case st
 | Case study | Engineering focus |
 | --- | --- |
 | [Restaurant voice ordering](case-studies/restaurant-voice-ordering.md) | Grounding a voice conversation in menu data, maintaining cart state, handling corrections, validating the order, and confirming before submission. |
+| [OrderTech Legal](case-studies/ordertech-legal.md) | Connecting a law office's cases, clients, documents, scheduling, and billing with permission-aware AI and human review. |
 | [Multilingual banking NLU](case-studies/multilingual-banking-nlu.md) | Arabic/English intent and entity understanding, evaluation on messy language, conversation state, and confirmation for consequential actions. |
 
 ## What I pay attention to
@@ -18,4 +19,4 @@ I am **Ibraheem Abuhadba**, an AI engineer in Amman, Jordan. These short case st
 
 The product implementations and customer data are private. These notes explain the engineering approach without publishing private source code, internal details, or unverified metrics.
 
-[LinkedIn](https://www.linkedin.com/in/ibraheem-abuhadba/) · [OrderTech](https://ordertech.ai) · [GitHub profile](https://github.com/abuhadbaibraheem)
+[LinkedIn](https://www.linkedin.com/in/ibraheem-abuhadba/) · [OrderTech Voice AI](https://ordertech.ai) · [OrderTech Legal](https://lawyers.ordertech.ai/) · [GitHub profile](https://github.com/abuhadbaibraheem)
